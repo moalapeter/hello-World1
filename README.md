@@ -1,2 +1,1 @@
-# hello-World1
-my first repository
+a bit abour yourself
